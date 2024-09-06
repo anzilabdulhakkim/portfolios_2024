@@ -1,6 +1,8 @@
 # 🏆 Top Developer Portfolios of 2024
 
-Welcome to the **Top Developer Portfolios of 2024**! This repository showcases the most influential and inspiring portfolios that every developer should check out. The portfolios listed below are recognized for their outstanding design, technical skills, and creativity, with many having been nominated or awarded by platforms like Awwwards.
+Welcome to the **Top Developer Portfolios of 2024**! 
+This repository showcases the most influential and inspiring portfolios that every developer should check out. 
+The portfolios listed below are recognized for their outstanding design, technical skills, and creativity, with many having been nominated or awarded by platforms like Awwwards.
 
 ## 🌟 Featured Portfolios
 
