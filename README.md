@@ -107,6 +107,9 @@ Welcome to the **Top Developer Portfolios of 2024**! This repository showcases t
 60. **[Accordion](https://www.accordion.net.au/)**  
     - *Created by HOLOGRAPHIK*: A captivating portfolio that incorporates interactive design elements, offering a unique browsing experience.
 
+61. **[Joris Brianti](https://jorisbrianti.fr/)**  
+    - *Created by Joris Brianti*: A sleek, interactive portfolio showcasing expertise in front-end development with a creative, user-friendly design. It stands out for its use of animation and smooth transitions.
+
 
 ---
 
