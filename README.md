@@ -112,6 +112,9 @@ The portfolios listed below are recognized for their outstanding design, technic
 61. **[Joris Brianti](https://jorisbrianti.fr/)**  
     - *Created by Joris Brianti*: A sleek, interactive portfolio showcasing expertise in front-end development with a creative, user-friendly design. It stands out for its use of animation and smooth transitions.
 
+62. **[Cyd Stumpel](https://cydstumpel.nl/)**  
+    - *Created by Cyd Stumpel*: A unique and visually captivating portfolio highlighting skills in branding and design. It features bold typography, vivid colors, and an intuitive user interface that reflects 
+       creativity and professionalism.
 
 ---
 
