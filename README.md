@@ -116,6 +116,10 @@ The portfolios listed below are recognized for their outstanding design, technic
     - *Created by Cyd Stumpel*: A unique and visually captivating portfolio highlighting skills in branding and design. It features bold typography, vivid colors, and an intuitive user interface that reflects 
        creativity and professionalism.
 
+63. **[Edward H](https://www.edwardh.io/)**  
+    - *Created by Edward H*: A clean and minimalistic portfolio focused on UX/UI design and web development. It impresses with its intuitive layout, subtle animations, and a strong emphasis on user experience.
+
+
 ---
 
 ### Sources
