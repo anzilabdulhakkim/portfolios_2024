@@ -119,6 +119,9 @@ The portfolios listed below are recognized for their outstanding design, technic
 63. **[Edward H](https://www.edwardh.io/)**  
     - *Created by Edward H*: A clean and minimalistic portfolio focused on UX/UI design and web development. It impresses with its intuitive layout, subtle animations, and a strong emphasis on user experience.
 
+64. **[Jesse Zhou](https://jesse-zhou.com/)**  
+    - *Created by Jesse Zhou*: A modern and visually appealing portfolio that emphasizes UX/UI design with clean lines and a well-organized structure. It showcases creative problem-solving skills and thoughtful 
+       user-centered design.
 
 ---
 
