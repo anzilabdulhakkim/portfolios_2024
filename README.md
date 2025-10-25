@@ -122,6 +122,9 @@ The portfolios listed below are recognized for their outstanding design, technic
 64. **[Jesse Zhou](https://jesse-zhou.com/)**  
     - *Created by Jesse Zhou*: A modern and visually appealing portfolio that emphasizes UX/UI design with clean lines and a well-organized structure. It showcases creative problem-solving skills and thoughtful 
        user-centered design.
+
+65. **[Lando Norris](https://landonorris.com/)**  
+    - *Created by Lando Norris*: A sleek, high-performance digital presence reflecting the precision and energy of Formula 1. The site combines bold visuals, smooth interactions, and modern aesthetics—capturing both the competitive edge and personal brand of a world-          class racer.
 ---
 
 ### Sources
